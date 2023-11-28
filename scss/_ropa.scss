@@ -1,0 +1,82 @@
+.ropasection{
+    display: flex;
+    width: 600px;
+    height: 550px;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 680px;
+    margin-top: 110px;
+    box-shadow:  -1px 6px 0px rgb(128, 130, 133), 4px 4px 16px 2px rgb(128, 130, 133);
+
+
+}
+
+.thenorteface{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 8;
+    transition: 0.5s;
+}
+.wanf{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 8;
+    transition: 0.5s;
+}
+.drew{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 8;
+    transition: 0.5s;
+}
+.nude{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 8;
+    transition: 0.5s;
+}
+.supreme{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 8;
+    transition: 0.5s;
+}
+.nikeropa{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 8;
+    transition: 0.5s;
+}
+
+
+.ropasection img:hover{
+    cursor: crosshair;
+    width: 300px;
+    opacity: 1;
+    filter: contrast(120%);
+}
+
+.textoropa{
+    
+    margin-top: 110px;
+    text-size-adjust: 12;
+    color: rgb(53, 53, 52);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;  
+    text-align: center;
+    text-justify: inter-word;
+}
+
+.h1ropa{
+    text-align: center;
+    text-size-adjust: 12;
+    color: rgb(53, 53, 52);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+}
